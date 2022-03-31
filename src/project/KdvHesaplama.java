@@ -20,22 +20,5 @@ public class KdvHesaplama {
         System.out.println("Kdv'li tutar " + Kdvlitutar);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
